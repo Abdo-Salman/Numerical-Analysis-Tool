@@ -83,10 +83,5 @@ namespace WinFormsApp1
             f8 = null;
             this.Show();
         }
-
-        private void pictureBox1_Click(object sender, EventArgs e)
-        {
-            pictureBox1.Hide();
-        }
     }
 }

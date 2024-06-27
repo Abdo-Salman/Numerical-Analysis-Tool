@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\abdoa\\source\\repos\\WinFormsApp1\\WinFormsApp1\\Numerical Project.csproj": {}
+    "C:\\Users\\abdoa\\OneDrive\\Desktop\\Docs\\University Docs\\Numerical Analysis\\App\\WinFormsApp1\\Numerical Project.csproj": {}
   },
   "projects": {
-    "C:\\Users\\abdoa\\source\\repos\\WinFormsApp1\\WinFormsApp1\\Numerical Project.csproj": {
+    "C:\\Users\\abdoa\\OneDrive\\Desktop\\Docs\\University Docs\\Numerical Analysis\\App\\WinFormsApp1\\Numerical Project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\abdoa\\source\\repos\\WinFormsApp1\\WinFormsApp1\\Numerical Project.csproj",
+        "projectUniqueName": "C:\\Users\\abdoa\\OneDrive\\Desktop\\Docs\\University Docs\\Numerical Analysis\\App\\WinFormsApp1\\Numerical Project.csproj",
         "projectName": "Numerical Project",
-        "projectPath": "C:\\Users\\abdoa\\source\\repos\\WinFormsApp1\\WinFormsApp1\\Numerical Project.csproj",
+        "projectPath": "C:\\Users\\abdoa\\OneDrive\\Desktop\\Docs\\University Docs\\Numerical Analysis\\App\\WinFormsApp1\\Numerical Project.csproj",
         "packagesPath": "C:\\Users\\abdoa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\abdoa\\source\\repos\\WinFormsApp1\\WinFormsApp1\\obj\\",
+        "outputPath": "C:\\Users\\abdoa\\OneDrive\\Desktop\\Docs\\University Docs\\Numerical Analysis\\App\\WinFormsApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\abdoa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -68,7 +68,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -37,8 +37,6 @@
             Nton = new Button();
             LU = new Button();
             GElim = new Button();
-            pictureBox1 = new PictureBox();
-            ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             SuspendLayout();
             // 
             // Bisec
@@ -154,17 +152,6 @@
             GElim.UseVisualStyleBackColor = false;
             GElim.Click += GElim_Click;
             // 
-            // pictureBox1
-            // 
-            pictureBox1.BackgroundImage = (Image)resources.GetObject("pictureBox1.BackgroundImage");
-            pictureBox1.BackgroundImageLayout = ImageLayout.Stretch;
-            pictureBox1.Location = new Point(-3, -1);
-            pictureBox1.Name = "pictureBox1";
-            pictureBox1.Size = new Size(987, 655);
-            pictureBox1.TabIndex = 41;
-            pictureBox1.TabStop = false;
-            pictureBox1.Click += pictureBox1_Click;
-            // 
             // Main
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
@@ -172,7 +159,6 @@
             BackgroundImage = (Image)resources.GetObject("$this.BackgroundImage");
             BackgroundImageLayout = ImageLayout.Stretch;
             ClientSize = new Size(982, 653);
-            Controls.Add(pictureBox1);
             Controls.Add(Bisec);
             Controls.Add(Sec);
             Controls.Add(Cram);
@@ -186,7 +172,6 @@
             StartPosition = FormStartPosition.CenterScreen;
             Text = "Numerical Analysis Project";
             Load += Main_Load;
-            ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ResumeLayout(false);
         }
 
@@ -200,6 +185,5 @@
         private Button Nton;
         private Button LU;
         private Button GElim;
-        private PictureBox pictureBox1;
     }
 }
