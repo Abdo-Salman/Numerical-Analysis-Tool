@@ -39,7 +39,7 @@ This C# Windows Forms application provides tools for solving numerical analysis 
 
 ## Application Interface
 
-- Provide screenshots or a brief description of the simple interface design, emphasizing the ease of use and interaction flow.
+![image](https://github.com/Abdo-Salman/Numerical-Analysis-Tool/assets/149829707/f763b4fc-cf98-44d5-968a-cf5160877689)
 
 ## Technologies Used
 
