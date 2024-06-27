@@ -1,0 +1,57 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "WinFormsApp1/1.0.0": {
+        "dependencies": {
+          "CoreCLR-NCalc": "2.2.113",
+          "org.matheval": "1.0.0.3"
+        },
+        "runtime": {
+          "WinFormsApp1.dll": {}
+        }
+      },
+      "CoreCLR-NCalc/2.2.113": {
+        "runtime": {
+          "lib/netstandard2.0/NCalc.dll": {
+            "assemblyVersion": "3.5.0.2",
+            "fileVersion": "3.5.0.2"
+          }
+        }
+      },
+      "org.matheval/1.0.0.3": {
+        "runtime": {
+          "lib/netcoreapp3.1/org.matheval.dll": {
+            "assemblyVersion": "1.0.0.3",
+            "fileVersion": "1.0.0.3"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WinFormsApp1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CoreCLR-NCalc/2.2.113": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+xwpsdo4p2FgW7tcTnv7sqJI9XVhLLHEj5hU5ftEOpDBZMAcse2Mf+HLG4NQB/I5dHKlVLLChkiYxJziLRyTOg==",
+      "path": "coreclr-ncalc/2.2.113",
+      "hashPath": "coreclr-ncalc.2.2.113.nupkg.sha512"
+    },
+    "org.matheval/1.0.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-DybbFCn/LoQpBCeqdUll4kwayJPrNyBSuZlufdWrMUye75rzVvsE+pjRp+be2Fleu1gYWYYXotHjUNqrfFOWCg==",
+      "path": "org.matheval/1.0.0.3",
+      "hashPath": "org.matheval.1.0.0.3.nupkg.sha512"
+    }
+  }
+}

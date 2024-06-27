@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Finding roots of polynomials\Bisection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Finding roots of polynomials\FalsePosition.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Finding roots of polynomials\SFP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Liner Algebraic Equations\Gauss.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Liner Algebraic Equations\Cramer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

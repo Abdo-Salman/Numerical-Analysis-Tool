@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "6w59E/td8+g0a04SrcrYsSq0pVS4P179dH28YIokzgnL3w/4C1SZ1DY0opjcxew5IBtuW9rJ73MeBIHhIGNmjA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\abdoa\\source\\repos\\WinFormsApp1\\WinFormsApp1\\Numerical Project.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\abdoa\\.nuget\\packages\\coreclr-ncalc\\2.2.113\\coreclr-ncalc.2.2.113.nupkg.sha512",
+    "C:\\Users\\abdoa\\.nuget\\packages\\org.matheval\\1.0.0.3\\org.matheval.1.0.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
