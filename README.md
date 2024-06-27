@@ -44,7 +44,8 @@ This C# Windows Forms application provides tools for solving numerical analysis 
 ## Technologies Used
 
 - Developed using C# with Windows Forms in Visual Studio Community.
-
+- Canva for creating the backgrounds for the interface
+  
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
